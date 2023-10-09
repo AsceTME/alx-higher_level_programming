@@ -25,9 +25,30 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "history": [
+    {
+      "assignee": "AsceTME"
+    }
+  ],
+  "lastFilter": {
+    "assignee": "AsceTME"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="e1e2ce82-5b1a-4822-aa07-26aa3c73bee1" />
+        <option name="url" value="https://github.com/AsceTME/alx-higher_level_programming.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
   <component name="ProjectId" id="2TeLDscSLzpyczd7nabuTULjBM6" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -43,7 +64,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/veron/PycharmProjects",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Chloe Sleenhof/PycharmProjects/alx-higher_level_programming/0x00-python-hello_world",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>

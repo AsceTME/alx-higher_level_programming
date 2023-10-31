@@ -5,12 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b6ae9508-7dcb-4bfa-9f81-2a56c9f2f73d" name="Changes" comment="All Tasks">
-      <change beforePath="$PROJECT_DIR$/0x04-python-more_data_structures/1-search_replace.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x04-python-more_data_structures/1-search_replace.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x04-python-more_data_structures/2-uniq_add.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x04-python-more_data_structures/2-uniq_add.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x04-python-more_data_structures/3-common_elements.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x04-python-more_data_structures/3-common_elements.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x04-python-more_data_structures/4-only_diff_elements.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x04-python-more_data_structures/4-only_diff_elements.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x04-python-more_data_structures/5-number_keys.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x04-python-more_data_structures/5-number_keys.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x04-python-more_data_structures/6-print_sorted_dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x04-python-more_data_structures/6-print_sorted_dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/workflows/qodana_code_quality.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qodana.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x08-python-more_classes/0-rectangle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x08-python-more_classes/101-nqueens.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x08-python-more_classes/2-rectangle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x08-python-more_classes/3-rectangle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x08-python-more_classes/4-rectangle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x08-python-more_classes/5-rectangle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x08-python-more_classes/6-rectangle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x08-python-more_classes/7-rectangle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x08-python-more_classes/8-rectangle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x08-python-more_classes/9-rectangle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x08-python-more_classes/README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +61,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -79,6 +90,9 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\veron\PycharmProjects\alx-higher_level_programming" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Chloe Sleenhof\PycharmProjects\alx-higher_level_programming" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -134,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697018639107</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="All Tasks">
+      <option name="closed" value="true" />
+      <created>1697020175724</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1697020175724</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

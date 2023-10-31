@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6ae9508-7dcb-4bfa-9f81-2a56c9f2f73d" name="Changes" comment="All Tasks">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/qodana_code_quality.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qodana.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x08-python-more_classes/0-rectangle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x08-python-more_classes/101-nqueens.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x08-python-more_classes/2-rectangle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x08-python-more_classes/3-rectangle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x08-python-more_classes/4-rectangle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x08-python-more_classes/5-rectangle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x08-python-more_classes/6-rectangle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x08-python-more_classes/7-rectangle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x08-python-more_classes/8-rectangle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x08-python-more_classes/9-rectangle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x08-python-more_classes/README.md" beforeDir="false" />
-    </list>
+    <list default="true" id="b6ae9508-7dcb-4bfa-9f81-2a56c9f2f73d" name="Changes" comment="All Tasks" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -156,7 +141,23 @@
       <option name="project" value="LOCAL" />
       <updated>1697020175724</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="All Tasks">
+      <option name="closed" value="true" />
+      <created>1698782118484</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1698782118484</updated>
+    </task>
+    <task id="LOCAL-00009" summary="All Tasks">
+      <option name="closed" value="true" />
+      <created>1698782125079</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1698782125079</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

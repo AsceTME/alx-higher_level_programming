@@ -35,14 +35,12 @@
     &quot;assignee&quot;: &quot;AsceTME&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="e1e2ce82-5b1a-4822-aa07-26aa3c73bee1" />
-        <option name="url" value="https://github.com/AsceTME/alx-higher_level_programming.git" />
-      </UrlAndAccount>
-    </option>
-  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AsceTME/alx-higher_level_programming.git",
+    "accountId": "aa4d5a7d-d432-4689-95d6-3502d43ba031"
+  }
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -82,6 +80,13 @@
       <recent name="C:\Users\Chloe Sleenhof\PycharmProjects\alx-higher_level_programming\0x0F-python-object_relational_mapping" />
       <recent name="C:\Users\Chloe Sleenhof\PycharmProjects\alx-higher_level_programming" />
     </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">

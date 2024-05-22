@@ -75,11 +75,11 @@
       <recent name="C:\Users\veron\PycharmProjects\alx-higher_level_programming" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Asce\PycharmProjects\alx-higher_level_programming\0x02-python-import_modules" />
       <recent name="C:\Users\Asce\PycharmProjects\alx-higher_level_programming\0x15-javascript-web_jquery" />
       <recent name="C:\Users\Asce\PycharmProjects\alx-higher_level_programming\0x14-javascript-web_scraping\tests" />
       <recent name="C:\Users\Asce\PycharmProjects\alx-higher_level_programming\0x14-javascript-web_scraping" />
       <recent name="C:\Users\Chloe Sleenhof\PycharmProjects\alx-higher_level_programming\0x10-python-network_0" />
-      <recent name="C:\Users\Chloe Sleenhof\PycharmProjects\alx-higher_level_programming\0x11-python-network_1" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -262,7 +262,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716415956602</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="All Tasks">
+      <option name="closed" value="true" />
+      <created>1716416548094</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1716416548094</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

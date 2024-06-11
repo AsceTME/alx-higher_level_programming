@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6ae9508-7dcb-4bfa-9f81-2a56c9f2f73d" name="Changes" comment="All Tasks" />
+    <list default="true" id="b6ae9508-7dcb-4bfa-9f81-2a56c9f2f73d" name="Changes" comment="All Tasks">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,28 +60,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Chloe Sleenhof/PycharmProjects/alx-higher_level_programming&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/pycharm2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\veron\PycharmProjects\alx-higher_level_programming" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Asce\PycharmProjects\alx-higher_level_programming\0x0C-python-almost_a_circle\tests\test_models" />
+      <recent name="C:\Users\Asce\PycharmProjects\alx-higher_level_programming\0x0C-python-almost_a_circle\tests" />
+      <recent name="C:\Users\Asce\PycharmProjects\alx-higher_level_programming\0x0C-python-almost_a_circle\models" />
+      <recent name="C:\Users\Asce\PycharmProjects\alx-higher_level_programming\0x0C-python-almost_a_circle" />
       <recent name="C:\Users\Asce\PycharmProjects\alx-higher_level_programming\0x02-python-import_modules" />
-      <recent name="C:\Users\Asce\PycharmProjects\alx-higher_level_programming\0x15-javascript-web_jquery" />
-      <recent name="C:\Users\Asce\PycharmProjects\alx-higher_level_programming\0x14-javascript-web_scraping\tests" />
-      <recent name="C:\Users\Asce\PycharmProjects\alx-higher_level_programming\0x14-javascript-web_scraping" />
-      <recent name="C:\Users\Chloe Sleenhof\PycharmProjects\alx-higher_level_programming\0x10-python-network_0" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -270,7 +272,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716416548094</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="All Tasks">
+      <option name="closed" value="true" />
+      <created>1716417051851</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1716417051851</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
